@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.locenes.com/"/>
-  <updated>2018-10-29T11:59:18.199Z</updated>
+  <updated>2018-10-29T12:16:52.462Z</updated>
   <id>https://www.locenes.com/</id>
   
   <author>
@@ -17,11 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>动机决定论</title>
+    <link href="https://www.locenes.com/2018/10/29/%E5%8A%A8%E6%9C%BA%E5%86%B3%E5%AE%9A%E8%AE%BA/"/>
+    <id>https://www.locenes.com/2018/10/29/动机决定论/</id>
+    <published>2018-10-29T12:16:52.000Z</published>
+    <updated>2018-10-29T12:16:52.462Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="博客" scheme="https://www.locenes.com/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>微软日语输入法</title>
     <link href="https://www.locenes.com/2018/10/29/%E5%BE%AE%E8%BD%AF%E6%97%A5%E8%AF%AD%E8%BE%93%E5%85%A5%E6%B3%95/"/>
     <id>https://www.locenes.com/2018/10/29/微软日语输入法/</id>
     <published>2018-10-29T11:37:05.000Z</published>
-    <updated>2018-10-29T11:59:18.199Z</updated>
+    <updated>2018-10-29T12:14:01.196Z</updated>
     
     <content type="html"><![CDATA[<h1 id="用法说明"><a href="#用法说明" class="headerlink" title="用法说明"></a>用法说明</h1><p>拨音（ん/ツ）用“n”表示。如：新闻（しんぶん）sinbun、民族（みんぞく）minzoku。<br>促音（小つ）将后面的子音重写两个来表示。如：国家（こっか）kokka、雑志（ざっし）zasshi。但在つ的前面则加“t”来表示，如：発着（はっちゃく）hatchaku。（但在输入时仍应输入hacchaku）<br>ぢ/ヂ其读音为ji，但在输入时应该输入di。而づ/ヅ的读音虽为zu，但在输入时应该输入du。<br>要输入し/シ时可以输入si或shi。要输入じ/ジ可以输入ji或zi。<br>は在作助词用时，读作wa，但输入仍为ha。 を/ヲ的读音为o，但输入时为wo。</p><h1 id="输入技巧"><a href="#输入技巧" class="headerlink" title="输入技巧"></a>输入技巧</h1><p>っ（促音）双打后一个假名的罗马字发音的第一个辅音，如“もっと”为“motto”。<br>拨音ん用nn表示；促音用后面辅音字母表示，如：“はってん”为“hattenn”。<br>小写的あいうえお 用la,li,lu,le,lo即可。<br>“コーヒー”中的“ー”是“P”右上方的“-”号键。<br>片假名、平假名的转换可用：击F6键变成平假名，击F7键变成片假名。<br>在日语输入法中有一个“IME Pad”，里面有手写输入。</p><h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p>“IMEパット”功能 ：相当于手写板,可以反查日语汉字，不会读音时可以选用此功能。<br>ALT+~ ：可切换英文输入法Direct Input（图标A） 和日文输入法Hiragana（图标あ）。<br>快捷键：F6转换为平假名，F8转换为半角片假名，F9转换为全角英文数字，F10转换为半角英文数字。<br>F5偏旁发音输入大法：只要懂偏旁发音可以很快输出怪僻字，如“轼”用くるま+F5输入，出现输入板界面，并看到了该字，点击它就可以把它输入到文档。</p><h1 id="常用符号输入法"><a href="#常用符号输入法" class="headerlink" title="常用符号输入法"></a>常用符号输入法</h1><p>きごう+F5 得到所有记号。<br>たんい 得到所有单位符号。<br>すうがく 得到所有数学符号。<br>ぎりしゃ 得到希腊字母符号。</p>]]></content>
     
